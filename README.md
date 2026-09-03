@@ -151,8 +151,6 @@ The analysis:
 9. Counts accepted and pending scholarship applicants.
 10. Orders applicants from lowest to highest GPA ratio.
 
-This demonstrates how SQL can be used to transform a normalized relational database into information that could support **real-world admissions and scholarship decision-making**.
-
 ## How to Use
 
 ### 1. Clone the repository
